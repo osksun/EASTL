@@ -1,4 +1,4 @@
 [submodule "test/packages/EABase"]
 	path = test/packages/EABase
-	url = ../EABase.git
+	url = osksun/EABase.git
 
